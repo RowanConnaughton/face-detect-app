@@ -1,15 +1,17 @@
 # Face Detection app
 
-This app was created with Reactjs.
+View the app [here](https://face-detection-app-rc.herokuapp.com/)
+
+This app was created with Reactjs and materializecss.
 
 The app uses postgres database to store user info.
 
 Clarafi API to detect faces in images.
 
 Other libraries used:
-    react-tilt
-    react-particles-js
-    simple-react-validator
+    [react-tilt](https://www.npmjs.com/package/react-tilt)
+    [react-particles-js](https://www.npmjs.com/package/react-particles-js)
+    [simple-react-validator](https://www.npmjs.com/package/simple-react-validator)
 
 ##Setup
 
