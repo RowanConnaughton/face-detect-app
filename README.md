@@ -1,4 +1,4 @@
-# Face Detection app
+# Face Detection App
 
 View the app [here](https://face-detection-app-rc.herokuapp.com/)
 
