@@ -3,9 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "clarifai": "^2.9.0",
+    "materialize-css": "^1.0.0",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "react-scripts": "2.1.8"
+    "react-materialize": "^2.6.0",
+    "react-particles-js": "^2.4.2",
+    "react-scripts": "2.1.8",
+    "react-tilt": "^0.1.4",
+    "simple-react-validator": "^1.0.5"
   },
   "scripts": {
     "start": "react-scripts start",
