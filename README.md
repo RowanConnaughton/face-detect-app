@@ -19,7 +19,7 @@ Other libraries used:
 [react-particles-js](https://www.npmjs.com/package/react-particles-js)
 [simple-react-validator](https://www.npmjs.com/package/simple-react-validator)
 
-##Setup
+## Setup
 
 clone repo
 
